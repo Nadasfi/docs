@@ -1,0 +1,27 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Nadas Backend API",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "theme": "mint",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373"
+  },
+  "navigation": [
+    {
+      "group": "Introduction",
+      "pages": [
+        "introduction"
+      ]
+    },
+    {
+      "group": "API Reference",
+      "pages": []
+    }
+  ]
+}
